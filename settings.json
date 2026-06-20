@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xByAlvaroSSJ_MC.aternos.me",
-    "port": 34249,
+    "ip": "TRKmc.aternos.me:63705",
+    "port": 63705,
     "version": "1.21.1",
     "try-creative": false
   },
